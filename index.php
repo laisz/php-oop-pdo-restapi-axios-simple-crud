@@ -6,7 +6,7 @@
 				<div class="card border-info">
 					<div class="card-header bg-info  text-white">Data List</div>
 					<div class="card-body">
-						<h5 class="card-title">Data Lists</h5>
+						<h5 class="card-title">Data List</h5>
 						<div>
 							<!-- Button trigger modal For Add Data -->
 							<button type="button" id="showCreateDataForm" class="btn bg-success text-white">
